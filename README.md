@@ -1,6 +1,6 @@
 # Device Manager
 
-[![Device Manager](get-detail.png)](https://computersolve.com/device-manager/)
+[![Device Manager](get-detail.png)](https://icncomputer.com/device-manager/)
 
 **[Device Manager](https://device-manager.github.io/)**, which could be defined as a Control Panel that's an extension of the Microsoft Management Console, provides users an organized, central view of the Windows-recognized hardware attached to a computer. This includes devices like keyboards, hard disk drives, USB devices, etc. It sorts out all hardware, listing them on the basis of various criteria and when a device malfunctions or stops working altogether, it immediately notifies the user. Thus it can be used to control devices, enable or disable them, configure them, identify conflicts between devices, and much more.
 
